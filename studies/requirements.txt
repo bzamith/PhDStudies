@@ -1,0 +1,10 @@
+aeon[all_extras]
+matplotlib
+numpy
+pandas
+pyts
+scikit-image
+scikit-learn
+scipy
+seaborn
+tslearn
