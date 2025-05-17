@@ -954,7 +954,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [69] [Time Series Classification: A Review of Algorithms and Implementations](https://www.intechopen.com/chapters/1185930)
+* [69] [Time Series Classification: A Review of Algorithms and Implementations](https://www.intechopen.com/chapters/1185930) ✅ *(Read)*
 ```bibtex
 @inbook{faouzi2024,
   author = {Johann Faouzi},

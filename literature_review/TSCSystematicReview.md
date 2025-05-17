@@ -1,6 +1,6 @@
 # Literature Review: Time Series Classication (TSC) Systematic Reviews and Surveys
 
-* [69] [Time Series Classification: A Review of Algorithms and Implementations](https://www.intechopen.com/chapters/1185930)
+* [69] [Time Series Classification: A Review of Algorithms and Implementations](https://www.intechopen.com/chapters/1185930) ✅ *(Read)*
 ```bibtex
 @inbook{faouzi2024,
   author = {Johann Faouzi},
@@ -11,20 +11,6 @@
   publisher = {IntechOpen},
   isbn = {978-0-85466-053-7},
   doi = {10.5772/intechopen.1004810},
-}
-```
-
-* [70] [The Great Multivariate Time Series Classification Bake Off: A Review and Experimental Evaluation of Recent Algorithmic Advances](https://link.springer.com/article/10.1007/s10618-020-00727-3)
-```bibtex
-@article{ruiz2021,
-  author = {Ruiz, Alan P. and Flynn, Matthew and Large, James and Bagnall, Anthony},
-  title = {The Great Multivariate Time Series Classification Bake Off: A Review and Experimental Evaluation of Recent Algorithmic Advances},
-  journal = {Data Mining and Knowledge Discovery},
-  volume = {35},
-  pages = {401--449},
-  year = {2021},
-  doi = {10.1007/s10618-020-00727-3},
-  url = {https://doi.org/10.1007/s10618-020-00727-3}
 }
 ```
 
@@ -39,6 +25,20 @@
   year = {2024},
   doi = {10.1007/s10618-024-01022-1},
   url = {https://doi.org/10.1007/s10618-024-01022-1}
+}
+```
+
+* [70] [The Great Multivariate Time Series Classification Bake Off: A Review and Experimental Evaluation of Recent Algorithmic Advances](https://link.springer.com/article/10.1007/s10618-020-00727-3)
+```bibtex
+@article{ruiz2021,
+  author = {Ruiz, Alan P. and Flynn, Matthew and Large, James and Bagnall, Anthony},
+  title = {The Great Multivariate Time Series Classification Bake Off: A Review and Experimental Evaluation of Recent Algorithmic Advances},
+  journal = {Data Mining and Knowledge Discovery},
+  volume = {35},
+  pages = {401--449},
+  year = {2021},
+  doi = {10.1007/s10618-020-00727-3},
+  url = {https://doi.org/10.1007/s10618-020-00727-3}
 }
 ```
 

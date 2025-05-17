@@ -7,4 +7,5 @@ scikit-image
 scikit-learn
 scipy
 seaborn
+statsmodels
 tslearn
