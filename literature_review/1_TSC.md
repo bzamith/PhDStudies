@@ -14,7 +14,7 @@
 }
 ```
 
-* [71] [Bake off redux: a review and experimental evaluation of recent time series classification algorithms](https://link.springer.com/article/10.1007/s10618-024-01022-1)
+* [71] [Bake off redux: a review and experimental evaluation of recent time series classification algorithms](https://link.springer.com/article/10.1007/s10618-024-01022-1) ✅ *(Read)*
 ```bibtex
 @article{middlehurst2024,
   author = {Middlehurst, Matthew and Sch{\"a}fer, Patrick and Bagnall, Anthony},

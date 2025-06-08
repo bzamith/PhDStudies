@@ -218,7 +218,7 @@ For specific categories, please refer to the corresponding files listed below. N
 
 * [17] [IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models](https://api.semanticscholar.org/CorpusID:273589567)
 ```bibtex
-@inproceedings{nasr2024indmask,
+@inproceedings{nasr2024,
   title = {IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models},
   author = {Nasr, Seham and Sikdar, Sandipan},
   booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI 2024)},
@@ -768,7 +768,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [56] [Explainable Failure Predictions with RNN Classifiers based on Time Series Data]()
+* [56] [Explainable Failure Predictions with RNN Classifiers based on Time Series Data](https://arxiv.org/abs/1901.08554)
 ```bibtex
 @misc{giurgiu2019,
   title = {Explainable Failure Predictions with RNN Classifiers Based on Time Series Data},
@@ -982,7 +982,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [71] [Bake off redux: a review and experimental evaluation of recent time series classification algorithms](https://link.springer.com/article/10.1007/s10618-024-01022-1)
+* [71] [Bake off redux: a review and experimental evaluation of recent time series classification algorithms](https://link.springer.com/article/10.1007/s10618-024-01022-1) ✅ *(Read)*
 ```bibtex
 @article{middlehurst2024,
   author = {Middlehurst, Matthew and Sch{\"a}fer, Patrick and Bagnall, Anthony},

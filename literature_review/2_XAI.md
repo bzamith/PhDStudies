@@ -55,6 +55,23 @@
 }
 ```
 
+* [59] [AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution](https://dl.acm.org/doi/10.1145/3511808.3557247)
+```bibtex
+@inproceedings{cugny2022,
+  author = {Cugny, Robin and Aligon, Julien and Chevalier, Max and Roman Jimenez, Geoffrey and Teste, Olivier},
+  title = {AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM '22)},
+  year = {2022},
+  pages = {315--324},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3511808.3557247},
+  doi = {10.1145/3511808.3557247},
+  isbn = {9781450392365},
+  location = {Atlanta, GA, USA}
+}
+```
+
 * [68] [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
 ```bibtex
 @article{barredoarrieta2020,
@@ -140,5 +157,31 @@
   doi = {10.1007/s11042-023-17666-y},
   url = {https://doi.org/10.1007/s11042-023-17666-y},
   issn = {1573-7721}
+}
+```
+
+* [61] [Hierarchical Fuzzy Model-Agnostic Explanation: Framework, Algorithms and Interface for XAI](https://ieeexplore.ieee.org/document/10731553)
+```bibtex
+@article{yin2024,
+  author = {Yin, Faliang and Lam, Hak-Keung and Watson, David},
+  title = {Hierarchical Fuzzy Model-Agnostic Explanation: Framework, Algorithms, and Interface for XAI},
+  journal = {IEEE Transactions on Fuzzy Systems},
+  year = {2024},
+  pages = {1--10},
+  doi = {10.1109/TFUZZ.2024.3485212}
+}
+```
+
+* [33] [Explainable Automated Machine Learning for Credit Decisions: Enhancing Human Artificial Intelligence Collaboration in Financial Engineering](https://arxiv.org/pdf/2402.03806)
+```bibtex
+@techreport{schmitt2024,
+  author = {Schmitt, Marc},
+  title = {Explainable Automated Machine Learning for Credit Decisions: Enhancing Human-Artificial Intelligence Collaboration in Financial Engineering},
+  year = {2024},
+  month = {February},
+  institution = {arXiv.org},
+  type = {Preprint},
+  number = {2402.03806},
+  url = {https://ideas.repec.org/p/arx/papers/2402.03806.html},
 }
 ```
