@@ -300,7 +300,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [24] [TSInterpret: A Python Package for the Interpretability of Time Series Classification](https://doi.org/10.21105/joss.05220)
+* [24] [TSInterpret: A Python Package for the Interpretability of Time Series Classification](https://doi.org/10.21105/joss.05220)  ✅ *(Read)*
 ```bibtex
 @article{hollig2023,
   title = {TSInterpret: A Python Package for the Interpretability of Time Series Classification},
@@ -1041,5 +1041,19 @@ For specific categories, please refer to the corresponding files listed below. N
   issn = {0040-1625},
   doi = {10.1016/j.techfore.2022.122120},
   url = {https://www.sciencedirect.com/science/article/pii/S0040162522006412}
+}
+```
+
+* [75] [Alibi Explain: Algorithms for Explaining Machine Learning Models](http://jmlr.org/papers/v22/21-0017.html)
+```bibtex
+@article{klaise2021,
+  author = {Janis Klaise and Arnaud Van Looveren and Giovanni Vacanti and Alexandru Coca},
+  title = {Alibi Explain: Algorithms for Explaining Machine Learning Models},
+  journal = {Journal of Machine Learning Research},
+  year = {2021},
+  volume = {22},
+  number = {181},
+  pages = {1-7},
+  url = {http://jmlr.org/papers/v22/21-0017.html}
 }
 ```

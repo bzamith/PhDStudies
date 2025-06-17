@@ -13,18 +13,7 @@
 }
 ```
 
-* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957)
-```bibtex
-@misc{hollig2023xtsc,
-  title = {XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification},
-  author = {Höllig, Jacqueline and Thoma, Steffen and Grimm, Florian},
-  year = {2023},
-  eprint = {2310.14957},
-  url = {https://arxiv.org/abs/2310.14957}
-}
-```
-
-* [24] [TSInterpret: A Python Package for the Interpretability of Time Series Classification](https://doi.org/10.21105/joss.05220)
+* [24] [TSInterpret: A Python Package for the Interpretability of Time Series Classification](https://doi.org/10.21105/joss.05220) ✅ *(Read)*
 ```bibtex
 @article{hollig2023,
   title = {TSInterpret: A Python Package for the Interpretability of Time Series Classification},
@@ -40,7 +29,7 @@
 }
 ```
 
-* [34] [timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers](https://arxiv.org/abs/2007.07606)
+* [34] [timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers](https://arxiv.org/abs/2007.07606) ✅ *(Read)*
 ```bibtex
 @misc{mujkanovic2023,
   title = {timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers},
@@ -48,6 +37,17 @@
   year = {2023},
   eprint = {2007.07606},
   url = {https://arxiv.org/abs/2007.07606}
+}
+```
+
+* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957)
+```bibtex
+@misc{hollig2023xtsc,
+  title = {XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification},
+  author = {Höllig, Jacqueline and Thoma, Steffen and Grimm, Florian},
+  year = {2023},
+  eprint = {2310.14957},
+  url = {https://arxiv.org/abs/2310.14957}
 }
 ```
 

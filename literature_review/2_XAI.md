@@ -55,6 +55,20 @@
 }
 ```
 
+* [75] [Alibi Explain: Algorithms for Explaining Machine Learning Models](http://jmlr.org/papers/v22/21-0017.html)
+```bibtex
+@article{klaise2021,
+  author = {Janis Klaise and Arnaud Van Looveren and Giovanni Vacanti and Alexandru Coca},
+  title = {Alibi Explain: Algorithms for Explaining Machine Learning Models},
+  journal = {Journal of Machine Learning Research},
+  year = {2021},
+  volume = {22},
+  number = {181},
+  pages = {1-7},
+  url = {http://jmlr.org/papers/v22/21-0017.html}
+}
+```
+
 * [59] [AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution](https://dl.acm.org/doi/10.1145/3511808.3557247)
 ```bibtex
 @inproceedings{cugny2022,
