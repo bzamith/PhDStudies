@@ -1,6 +1,6 @@
 # Literature Review: Explainable AI (XAI) for Time Series Classication (TSC) Systematic Reviews and Surveys
 
-* [2] [Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions](https://ieeexplore.ieee.org/document/9895252)
+* [2] [Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions](https://ieeexplore.ieee.org/document/9895252) ✅ *(Read)*
 ```bibtex
 @article{theissler2022,
   author = {Theissler, Andreas and Spinnato, Francesco and Schlegel, Udo and Guidotti, Riccardo},
@@ -40,7 +40,7 @@
 }
 ```
 
-* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957)
+* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957) ✅ *(Read)*
 ```bibtex
 @misc{hollig2023xtsc,
   title = {XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification},
@@ -298,5 +298,18 @@
   doi = {10.1007/s10618-022-00823-6},
   url = {https://doi.org/10.1007/s10618-022-00823-6},
   issn = {1573-756X}
+}
+```
+
+* [76] [Explaining Any Time Series Classifier](https://ieeexplore.ieee.org/document/9319285)
+```bibtex
+@inproceedings{guidotti2020,
+  author = {R. Guidotti and A. Monreale and F. Spinnato and D. Pedreschi and F. Giannotti},
+  title = {Explaining Any Time Series Classifier},
+  booktitle = {2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)},
+  year = {2020},
+  publisher = {IEEE},
+  pages = {167--176},
+  doi = {10.1109/CogMI50242.2020.00031}
 }
 ```

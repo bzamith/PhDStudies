@@ -440,3 +440,17 @@
   url = {https://openreview.net/forum?id=C0q9oBc3n4}
 }
 ```
+
+* [77] [TSInsight: A Local-Global Attribution Framework for Interpretability in Time Series Data](https://arxiv.org/abs/2004.02958)
+```bibtex
+@article{siddiqui2021,
+  author = {S. A. Siddiqui and D. Mercier and A. Dengel and S. Ahmed},
+  title = {TSInsight: A Local-Global Attribution Framework for Interpretability in Time Series Data},
+  journal = {Sensors},
+  year = {2021},
+  volume = {21},
+  number = {21},
+  pages = {7373},
+  doi = {10.3390/s21217373}
+}
+```

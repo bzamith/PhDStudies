@@ -18,7 +18,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [2] [Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions](https://ieeexplore.ieee.org/document/9895252)
+* [2] [Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions](https://ieeexplore.ieee.org/document/9895252) ✅ *(Read)*
 ```bibtex
 @article{theissler2022,
   author = {Theissler, Andreas and Spinnato, Francesco and Schlegel, Udo and Guidotti, Riccardo},
@@ -454,7 +454,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [34] [timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers](https://arxiv.org/abs/2007.07606)
+* [34] [timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers](https://arxiv.org/abs/2007.07606) ✅ *(Read)*
 ```bibtex
 @misc{mujkanovic2023,
   title = {timeXplain: A Framework for Explaining the Predictions of Time Series Classifiers},
@@ -714,7 +714,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957)
+* [52] [XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification](https://arxiv.org/abs/2310.14957) ✅ *(Read)*
 ```bibtex
 @misc{hollig2023xtsc,
   title = {XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification},
@@ -1055,5 +1055,45 @@ For specific categories, please refer to the corresponding files listed below. N
   number = {181},
   pages = {1-7},
   url = {http://jmlr.org/papers/v22/21-0017.html}
+}
+```
+
+* [76] [Explaining Any Time Series Classifier](https://ieeexplore.ieee.org/document/9319285)
+```bibtex
+@inproceedings{guidotti2020,
+  author = {R. Guidotti and A. Monreale and F. Spinnato and D. Pedreschi and F. Giannotti},
+  title = {Explaining Any Time Series Classifier},
+  booktitle = {2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)},
+  year = {2020},
+  publisher = {IEEE},
+  pages = {167--176},
+  doi = {10.1109/CogMI50242.2020.00031}
+}
+```
+
+* [77] [TSInsight: A Local-Global Attribution Framework for Interpretability in Time Series Data](https://arxiv.org/abs/2004.02958)
+```bibtex
+@article{siddiqui2021,
+  author = {S. A. Siddiqui and D. Mercier and A. Dengel and S. Ahmed},
+  title = {TSInsight: A Local-Global Attribution Framework for Interpretability in Time Series Data},
+  journal = {Sensors},
+  year = {2021},
+  volume = {21},
+  number = {21},
+  pages = {7373},
+  doi = {10.3390/s21217373}
+}
+```
+
+* [78] [TSViz: Demystification of Deep Learning Models for Time-Series Analysis](https://ieeexplore.ieee.org/document/8695734)
+```bibtex
+@article{siddiqui2019,
+  author = {S. A. Siddiqui and D. Mercier and M. Munir and A. Dengel and S. Ahmed},
+  title = {TSViz: Demystification of Deep Learning Models for Time-Series Analysis},
+  journal = {IEEE Access},
+  year = {2019},
+  volume = {7},
+  pages = {67027--67040},
+  doi = {10.1109/ACCESS.2019.2917748}
 }
 ```
