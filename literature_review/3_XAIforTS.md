@@ -454,3 +454,31 @@
   doi = {10.3390/s21217373}
 }
 ```
+
+* [78] [TSViz: Demystification of Deep Learning Models for Time-Series Analysis](https://ieeexplore.ieee.org/document/8695734) ✅ *(Read)*
+```bibtex
+@article{siddiqui2019,
+  author = {S. A. Siddiqui and D. Mercier and M. Munir and A. Dengel and S. Ahmed},
+  title = {TSViz: Demystification of Deep Learning Models for Time-Series Analysis},
+  journal = {IEEE Access},
+  year = {2019},
+  volume = {7},
+  pages = {67027--67040},
+  doi = {10.1109/ACCESS.2019.2917748}
+}
+```
+
+* [79] [DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time Series Data](https://dl.acm.org/doi/10.1145/3406601.3406643) ✅ *(Read)*
+```bibtex
+@inproceedings{dang2020,
+  author = {Dang, Tommy and Van, Hao and Nguyen, Huyen and Pham, Vung and Hewett, Rattikorn},
+  title = {DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time Series Data},
+  year = {2020},
+  isbn = {9781450377591},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3406601.3406643},
+  booktitle = {Proceedings of the 11th International Conference on Advances in Information Technology},
+  articleno = {38},
+  numpages = {10},
+}
+```

@@ -1,5 +1,46 @@
 # Literature Review: Explainable AI (XAI) for Time Series Classication (TSC) Baselines Systematic Reviews and Surveys
 
+* [76] [Explaining Any Time Series Classifier](https://ieeexplore.ieee.org/document/9319285) ✅ *(Read)*
+```bibtex
+@inproceedings{guidotti2020,
+  author = {R. Guidotti and A. Monreale and F. Spinnato and D. Pedreschi and F. Giannotti},
+  title = {Explaining Any Time Series Classifier},
+  booktitle = {2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)},
+  year = {2020},
+  publisher = {IEEE},
+  pages = {167--176},
+  doi = {10.1109/CogMI50242.2020.00031}
+}
+```
+
+* [78] [TSViz: Demystification of Deep Learning Models for Time-Series Analysis](https://ieeexplore.ieee.org/document/8695734) ✅ *(Read)*
+```bibtex
+@article{siddiqui2019,
+  author = {S. A. Siddiqui and D. Mercier and M. Munir and A. Dengel and S. Ahmed},
+  title = {TSViz: Demystification of Deep Learning Models for Time-Series Analysis},
+  journal = {IEEE Access},
+  year = {2019},
+  volume = {7},
+  pages = {67027--67040},
+  doi = {10.1109/ACCESS.2019.2917748}
+}
+```
+
+* [79] [DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time Series Data](https://dl.acm.org/doi/10.1145/3406601.3406643) ✅ *(Read)*
+```bibtex
+@inproceedings{dang2020,
+  author = {Dang, Tommy and Van, Hao and Nguyen, Huyen and Pham, Vung and Hewett, Rattikorn},
+  title = {DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time Series Data},
+  year = {2020},
+  isbn = {9781450377591},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3406601.3406643},
+  booktitle = {Proceedings of the 11th International Conference on Advances in Information Technology},
+  articleno = {38},
+  numpages = {10},
+}
+```
+
 * [9] [Agnostic Local Explanation for Time Series Classification](https://ieeexplore.ieee.org/document/8995349)
 ```bibtex
 @inproceedings{guilleme2019,
@@ -69,19 +110,6 @@
 }
 ```
 
-* [76] [Explaining Any Time Series Classifier](https://ieeexplore.ieee.org/document/9319285)
-```bibtex
-@inproceedings{guidotti2020,
-  author = {R. Guidotti and A. Monreale and F. Spinnato and D. Pedreschi and F. Giannotti},
-  title = {Explaining Any Time Series Classifier},
-  booktitle = {2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI)},
-  year = {2020},
-  publisher = {IEEE},
-  pages = {167--176},
-  doi = {10.1109/CogMI50242.2020.00031}
-}
-```
-
 * [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462)
 ```bibtex
 @misc{bahri2022,
@@ -116,18 +144,5 @@
   year = {2019},
   pages = {4197--4201},
   doi = {10.1109/ICCVW.2019.00516}
-}
-```
-
-* [78] [TSViz: Demystification of Deep Learning Models for Time-Series Analysis](https://ieeexplore.ieee.org/document/8695734)
-```bibtex
-@article{siddiqui2019,
-  author = {S. A. Siddiqui and D. Mercier and M. Munir and A. Dengel and S. Ahmed},
-  title = {TSViz: Demystification of Deep Learning Models for Time-Series Analysis},
-  journal = {IEEE Access},
-  year = {2019},
-  volume = {7},
-  pages = {67027--67040},
-  doi = {10.1109/ACCESS.2019.2917748}
 }
 ```

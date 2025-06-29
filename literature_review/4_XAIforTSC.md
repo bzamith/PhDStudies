@@ -301,7 +301,7 @@
 }
 ```
 
-* [76] [Explaining Any Time Series Classifier](https://ieeexplore.ieee.org/document/9319285)
+* [76] [Explaining Any Time Series Classifier](https://ieeexplore.ieee.org/document/9319285) ✅ *(Read)*
 ```bibtex
 @inproceedings{guidotti2020,
   author = {R. Guidotti and A. Monreale and F. Spinnato and D. Pedreschi and F. Giannotti},
