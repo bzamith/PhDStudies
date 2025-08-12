@@ -58,7 +58,7 @@
 }
 ```
 
-* [84] [Instance hardness measures for classification and regression problems](https://journals-sol.sbc.org.br/index.php/jidm/article/view/3463)
+* [84] [Instance hardness measures for classification and regression problems](https://journals-sol.sbc.org.br/index.php/jidm/article/view/3463) ✅ *(Read)*
 ```bibtex
 @article{torquette2024,
   author = {G. P. Torquette and V. S. Nunes and P. Y. A. Paiva and A. C. Lorena},
@@ -70,5 +70,21 @@
   year = {2024},
   doi = {10.5753/jidm.2024.3463},
   url = {https://doi.org/10.5753/jidm.2024.3463},
+}
+```
+
+* [85] [Explaining instances in the health domain based on the exploration of a dataset's hardness embedding](https://dl.acm.org/doi/10.1145/3638530.3664113) ✅ *(Read)*
+```bibtex
+@inproceedings{valeriano2024,
+  author = {Valeriano, Maria Gabriela and Pereira, Jo\~{a}o Luiz Junho and Veiga Kiffer, Carlos Roberto and Lorena, Ana Carolina},
+  title = {Explaining instances in the health domain based on the exploration of a dataset's hardness embedding},
+  year = {2024},
+  isbn = {9798400704956},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3638530.3664113},
+  booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference Companion},
+  pages = {1598–1606},
+  numpages = {9},
+  series = {GECCO '24 Companion}
 }
 ```

@@ -854,7 +854,7 @@ For specific categories, please refer to the corresponding files listed below. N
 
 * [62] [A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent developments and future trends](https://www.sciencedirect.com/science/article/pii/S277266222300070X) ✅ *(Read)*
 ```bibtex
-@article{saranya2023xai,
+@article{saranya2023,
   title = {A Systematic Review of Explainable Artificial Intelligence Models and Applications: Recent Developments and Future Trends},
   author = {Saranya, A. and Subhashini, R.},
   journal = {Decision Analytics Journal},
@@ -928,7 +928,7 @@ For specific categories, please refer to the corresponding files listed below. N
 
 * [67] [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/document/8466590) ✅ *(Read)*
 ```bibtex
-@article{adadi2018xai,
+@article{adadi2018,
   author = {Adadi, Amina and Berrada, Mohammed},
   title = {Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)},
   journal = {IEEE Access},
@@ -1171,7 +1171,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [84] [Instance hardness measures for classification and regression problems](https://journals-sol.sbc.org.br/index.php/jidm/article/view/3463)
+* [84] [Instance hardness measures for classification and regression problems](https://journals-sol.sbc.org.br/index.php/jidm/article/view/3463) ✅ *(Read)*
 ```bibtex
 @article{torquette2024,
   author = {G. P. Torquette and V. S. Nunes and P. Y. A. Paiva and A. C. Lorena},
@@ -1183,5 +1183,38 @@ For specific categories, please refer to the corresponding files listed below. N
   year = {2024},
   doi = {10.5753/jidm.2024.3463},
   url = {https://doi.org/10.5753/jidm.2024.3463},
+}
+```
+
+* [85] [Explaining instances in the health domain based on the exploration of a dataset's hardness embedding](https://dl.acm.org/doi/10.1145/3638530.3664113) ✅ *(Read)*
+```bibtex
+@inproceedings{valeriano2024,
+  author = {Valeriano, Maria Gabriela and Pereira, Jo\~{a}o Luiz Junho and Veiga Kiffer, Carlos Roberto and Lorena, Ana Carolina},
+  title = {Explaining instances in the health domain based on the exploration of a dataset's hardness embedding},
+  year = {2024},
+  isbn = {9798400704956},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3638530.3664113},
+  booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference Companion},
+  pages = {1598–1606},
+  numpages = {9},
+  series = {GECCO '24 Companion}
+}
+```
+
+* [86] [Benchmarking Instance-Centric Counterfactual Algorithms for XAI: From White Box to Black Box](https://dl.acm.org/doi/full/10.1145/3672553)
+```bibtex
+@article{moreira2025,
+  author = {Moreira, Catarina and Chou, Yu-Liang and Hsieh, Chihcheng and Ouyang, Chun and Pereira, Jo\~{a}o and Jorge, Joaquim},
+  title = {Benchmarking Instance-Centric Counterfactual Algorithms for XAI: From White Box to Black Box},
+  year = {2025},
+  publisher = {Association for Computing Machinery},
+  volume = {57},
+  number = {6},
+  issn = {0360-0300},
+  doi = {10.1145/3672553},
+  journal = {ACM Comput. Surv.},
+  articleno = {145},
+  numpages = {37},
 }
 ```
