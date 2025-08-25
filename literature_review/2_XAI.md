@@ -216,3 +216,14 @@
   numpages={37},
 }
 ```
+
+* [87] [Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR](https://doi.org/10.2139/ssrn.3063289) ✅ *(Read)*
+```bibtex
+@article{wachter2017,
+  author={Wachter, Sandra and Mittelstadt, Brent and Russell, Chris},
+  title={Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR},
+  journal={SSRN Electronic Journal},
+  year={2017},
+  doi={10.2139/ssrn.3063289}
+}
+```

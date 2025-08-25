@@ -313,3 +313,15 @@
   doi={10.1109/CogMI50242.2020.00031}
 }
 ```
+
+* [88] [Explainable Time Series Tweaking via Irreversible and Reversible Temporal Transformations](https://ieeexplore.ieee.org/document/8594845) ✅ *(Read)*
+```bibtex
+@inproceedings{karlsson2018,
+  author={Karlsson, Isak and Rebane, Jonathan and Papapetrou, Panagiotis and Gionis, Aristides},
+  booktitle={2018 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Explainable Time Series Tweaking via Irreversible and Reversible Temporal Transformations}, 
+  year={2018},
+  pages={207--216},
+  doi={10.1109/ICDM.2018.00036}
+}
+```
