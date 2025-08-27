@@ -53,7 +53,7 @@
 }
 ```
 
-* [10] [Instance-Based Counterfactual Explanations for Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_3)
+* [10] [Instance-Based Counterfactual Explanations for Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_3) ✅ *(Read)*
 ```bibtex
 @inproceedings{delaney2021,
   author={Delaney, Eoin and Greene, Derek and Keane, Mark T.},
@@ -69,10 +69,10 @@
 }
 ```
 
-* [41] [TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification](https://ieeexplore.ieee.org/document/10069160)
+* [41] [TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification](https://ieeexplore.ieee.org/document/10069160) ✅ *(Read)*
 ```bibtex
 @inproceedings{hollig2022,
-  author={Höllig, Jacqueline and Kulbach, Cedric and Thoma, Steffen},
+  author={H{\"o}llig, Jacqueline and Kulbach, Cedric and Thoma, Steffen},
   title={TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification},
   booktitle={Proceedings of the 21st IEEE International Conference on Machine Learning and Applications (ICMLA 2022)},
   year={2022},
@@ -98,7 +98,7 @@
 }
 ```
 
-* [42] [Counterfactual Explanations for Multivariate Time Series](https://ieeexplore.ieee.org/document/9462056)
+* [42] [Counterfactual Explanations for Multivariate Time Series](https://ieeexplore.ieee.org/document/9462056)  ✅ *(Read)*
 ```bibtex
 @inproceedings{ates2021,
   author={Ates, Emre and Aksar, Burak and Leung, Vitus J. and Coskun, Ayse K.},
@@ -110,14 +110,25 @@
 }
 ```
 
-* [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462)
+* [37] [CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps](https://ieeexplore.ieee.org/document/10386229) ✅ *(Read)*
 ```bibtex
-@misc{bahri2022,
-  title={Shapelet-Based Counterfactual Explanations for Multivariate Time Series},
-  author={Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
-  year={2022},
-  eprint={2208.10462},
-  url={https://arxiv.org/abs/2208.10462}
+@inproceedings{li2023,
+  author={Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  title={CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps},
+  booktitle={Proceedings of the 2023 IEEE International Conference on Big Data (BigData)},
+  year={2023},
+  pages={718--727},
+  doi={10.1109/BigData59044.2023.10386229}
+}
+```
+
+* [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462) ✅ *(Read)*
+```bibtex
+@inproceedings{bahri2022,
+  author={Bahri, O. and Boubrahimi, S. F. and Hamdi, S. M.},
+  title={Shapelet-based counterfactual explanations for multivariate time series},
+  booktitle={Proceedings of the ACM SIGKDD Workshop on Mining and Learning from Time Series (KDD-MiLeTS 2022)},
+  year={2022}
 }
 ```
 

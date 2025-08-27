@@ -270,18 +270,6 @@
 }
 ```
 
-* [37] [CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps](https://ieeexplore.ieee.org/document/10386229)
-```bibtex
-@inproceedings{li2023,
-  author={Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
-  title={CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps},
-  booktitle={Proceedings of the 2023 IEEE International Conference on Big Data (BigData)},
-  year={2023},
-  pages={718--727},
-  doi={10.1109/BigData59044.2023.10386229}
-}
-```
-
 * [39] [Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26)
 ```bibtex
 @inproceedings{li2023,
@@ -299,26 +287,13 @@
 }
 ```
 
-* [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462)
+* [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462) ✅ *(Read)*
 ```bibtex
-@misc{bahri2022,
-  title={Shapelet-Based Counterfactual Explanations for Multivariate Time Series},
-  author={Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
-  year={2022},
-  eprint={2208.10462},
-  url={https://arxiv.org/abs/2208.10462}
-}
-```
-
-* [42] [Counterfactual Explanations for Multivariate Time Series](https://ieeexplore.ieee.org/document/9462056)
-```bibtex
-@inproceedings{ates2021,
-  author={Ates, Emre and Aksar, Burak and Leung, Vitus J. and Coskun, Ayse K.},
-  title={Counterfactual Explanations for Multivariate Time Series},
-  booktitle={Proceedings of the 2021 International Conference on Applied Artificial Intelligence (ICAPAI)},
-  year={2021},
-  pages={1--8},
-  doi={10.1109/ICAPAI49758.2021.9462056}
+@inproceedings{bahri2022,
+  author={Bahri, O. and Boubrahimi, S. F. and Hamdi, S. M.},
+  title={Shapelet-based counterfactual explanations for multivariate time series},
+  booktitle={Proceedings of the ACM SIGKDD Workshop on Mining and Learning from Time Series (KDD-MiLeTS 2022)},
+  year={2022}
 }
 ```
 

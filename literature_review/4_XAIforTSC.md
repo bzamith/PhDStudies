@@ -106,7 +106,7 @@
 }
 ```
 
-* [10] [Instance-Based Counterfactual Explanations for Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_3)
+* [10] [Instance-Based Counterfactual Explanations for Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-030-86957-1_3) ✅ *(Read)*
 ```bibtex
 @inproceedings{delaney2021,
   author={Delaney, Eoin and Greene, Derek and Keane, Mark T.},
@@ -189,6 +189,18 @@
 }
 ```
 
+* [37] [CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps](https://ieeexplore.ieee.org/document/10386229) ✅ *(Read)*
+```bibtex
+@inproceedings{li2023,
+  author={Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  title={CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps},
+  booktitle={Proceedings of the 2023 IEEE International Conference on Big Data (BigData)},
+  year={2023},
+  pages={718--727},
+  doi={10.1109/BigData59044.2023.10386229}
+}
+```
+
 * [38] [Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification](https://link.springer.com/article/10.1007/s10994-023-06502-x)
 ```bibtex
 @article{wang2024,
@@ -205,7 +217,7 @@
 }
 ```
 
-* [41] [TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification](https://ieeexplore.ieee.org/document/10069160)
+* [41] [TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification](https://ieeexplore.ieee.org/document/10069160) ✅ *(Read)*
 ```bibtex
 @inproceedings{hollig2022,
   author={H{\"o}llig, Jacqueline and Kulbach, Cedric and Thoma, Steffen},
@@ -214,6 +226,18 @@
   year={2022},
   pages={29--36},
   doi={10.1109/ICMLA55696.2022.00013}
+}
+```
+
+* [42] [Counterfactual Explanations for Multivariate Time Series](https://ieeexplore.ieee.org/document/9462056) ✅ *(Read)*
+```bibtex
+@inproceedings{ates2021,
+  author={Ates, Emre and Aksar, Burak and Leung, Vitus J. and Coskun, Ayse K.},
+  title={Counterfactual Explanations for Multivariate Time Series},
+  booktitle={Proceedings of the 2021 International Conference on Applied Artificial Intelligence (ICAPAI)},
+  year={2021},
+  pages={1--8},
+  doi={10.1109/ICAPAI49758.2021.9462056}
 }
 ```
 
