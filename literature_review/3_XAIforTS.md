@@ -190,7 +190,7 @@
 }
 ```
 
-* [6] [Counterfactual Explanations for Time Series Forecasting](https://ieeexplore.ieee.org/document/10415785)
+* [6] [Counterfactual Explanations for Time Series Forecasting](https://ieeexplore.ieee.org/document/10415785) ✅ *(Read)*
 ```bibtex
 @inproceedings{wang2023,
   author={Wang, Zhendong and Miliou, Ioanna and Samsten, Isak and Papapetrou, Panagiotis},
@@ -270,23 +270,6 @@
 }
 ```
 
-* [39] [Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26)
-```bibtex
-@inproceedings{li2023,
-  author={Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
-  title={Attention-Based Counterfactual Explanation for Multivariate Time Series},
-  booktitle={Big Data Analytics and Knowledge Discovery: 25th International Conference, DaWaK 2023, Penang, Malaysia, August 28–30, 2023, Proceedings},
-  year={2023},
-  pages={287--293},
-  publisher={Springer-Verlag},
-  address={Berlin, Heidelberg},
-  isbn={978-3-031-39830-8},
-  doi={10.1007/978-3-031-39831-5_26},
-  url={https://doi.org/10.1007/978-3-031-39831-5_26},
-  location={Penang, Malaysia}
-}
-```
-
 * [40] [Shapelet-Based Counterfactual Explanations for Multivariate Time Series](https://arxiv.org/abs/2208.10462) ✅ *(Read)*
 ```bibtex
 @inproceedings{bahri2022,
@@ -294,21 +277,6 @@
   title={Shapelet-based counterfactual explanations for multivariate time series},
   booktitle={Proceedings of the ACM SIGKDD Workshop on Mining and Learning from Time Series (KDD-MiLeTS 2022)},
   year={2022}
-}
-```
-
-* [43] [Motif-Guided Time Series Counterfactual Explanations](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_16)
-```bibtex
-@inproceedings{li2023motif,
-  author={Li, Peiyu and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
-  editor={Rousseau, Jean-Jacques and Kapralos, Bill},
-  title={Motif-Guided Time Series Counterfactual Explanations},
-  booktitle={Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges},
-  year={2023},
-  publisher={Springer Nature Switzerland},
-  address={Cham},
-  pages={203--215},
-  isbn={978-3-031-37731-0}
 }
 ```
 

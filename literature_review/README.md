@@ -69,7 +69,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [6] [Counterfactual Explanations for Time Series Forecasting](https://ieeexplore.ieee.org/document/10415785)
+* [6] [Counterfactual Explanations for Time Series Forecasting](https://ieeexplore.ieee.org/document/10415785) ✅ *(Read)*
 ```bibtex
 @inproceedings{wang2023,
   author={Wang, Zhendong and Miliou, Ioanna and Samsten, Isak and Papapetrou, Panagiotis},
@@ -480,7 +480,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [36] [Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1)
+* [36] [Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1) ✅ *(Read)*
 ```bibtex
 @inproceedings{refoyo2024,
   author={Refoyo, Mario and Luengo, David},
@@ -507,7 +507,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [38] [Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification](https://link.springer.com/article/10.1007/s10994-023-06502-x)
+* [38] [Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification](https://link.springer.com/article/10.1007/s10994-023-06502-x) ✅ *(Read)*
 ```bibtex
 @article{wang2024
   author={Wang, Zhendong and Samsten, Isak and Miliou, Ioanna and Mochaourab, Rami and Papapetrou, Panagiotis},
@@ -523,7 +523,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [39] [Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26)
+* [39] [Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26) ✅ *(Read)*
 ```bibtex
 @inproceedings{li2023,
   author={Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
@@ -574,7 +574,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [43] [Motif-Guided Time Series Counterfactual Explanations](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_16)
+* [43] [Motif-Guided Time Series Counterfactual Explanations](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_16) ✅ *(Read)*
 ```bibtex
 @inproceedings{li2023,
   author={Li, Peiyu and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
@@ -866,7 +866,7 @@ For specific categories, please refer to the corresponding files listed below. N
 }
 ```
 
-* [63] [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/10.1145/3583558)
+* [63] [From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI](https://dl.acm.org/doi/10.1145/3583558) ✅ *(Read)*
 ```bibtex
 @article{nauta2023,
   author={Nauta, Meike and Trienes, Jan and Pathak, Shreyasi and Nguyen, Elisa and Peters, Michelle and Schmitt, Yasmin and Schl{\"o}tterer, J{\"o}rg and van Keulen, Maurice and Seifert, Christin},
@@ -1238,5 +1238,31 @@ For specific categories, please refer to the corresponding files listed below. N
   year={2018},
   pages={207--216},
   doi={10.1109/ICDM.2018.00036}
+}
+```
+
+* [89] [On the Mining of Time Series Data Counterfactual Explanations Using Barycenters](https://dl.acm.org/doi/10.1145/3511808.3557663)
+```bibtex
+@inproceedings{filali2022,
+  author={Filali Boubrahimi, S. and Hamdi, S. M.},
+  title={On the Mining of Time Series Data Counterfactual Explanations Using Barycenters},
+  booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management (CIKM '22)},
+  pages={3943--3947},
+  year={2022},
+  publisher={ACM},
+  doi={10.1145/3511808.3557663}
+}
+```
+
+* [90] [Learning time series counterfactuals via latent space representations](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_29)
+```bibtex
+@inproceedings{wang2021,
+  author={Wang, Zhendong and Samsten, Isak and Mochaourab, Rami and Papapetrou, Panagiotis},
+  title={Learning Time Series Counterfactuals via Latent Space Representations},
+  booktitle={Discovery Science},
+  year={2021},
+  publisher={Springer International Publishing},
+  pages={369--384},
+  isbn={978-3-030-88942-5}
 }
 ```

@@ -174,7 +174,7 @@
 }
 ```
 
-* [36] [Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1)
+* [36] [Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1) ✅ *(Read)*
 ```bibtex
 @inproceedings{refoyo2024,
   author={Refoyo, Mario and Luengo, David},
@@ -201,7 +201,7 @@
 }
 ```
 
-* [38] [Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification](https://link.springer.com/article/10.1007/s10994-023-06502-x)
+* [38] [Glacier: Guided Locally Constrained Counterfactual Explanations for Time Series Classification](https://link.springer.com/article/10.1007/s10994-023-06502-x) ✅ *(Read)*
 ```bibtex
 @article{wang2024,
   author={Wang, Zhendong and Samsten, Isak and Miliou, Ioanna and Mochaourab, Rami and Papapetrou, Panagiotis},
@@ -214,6 +214,23 @@
   doi={10.1007/s10994-023-06502-x},
   url={https://doi.org/10.1007/s10994-023-06502-x},
   isbn={1573-0565}
+}
+```
+
+* [39] [Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26) ✅ *(Read)*
+```bibtex
+@inproceedings{li2023,
+  author={Li, Peiyu and Bahri, Omar and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  title={Attention-Based Counterfactual Explanation for Multivariate Time Series},
+  booktitle={Big Data Analytics and Knowledge Discovery: 25th International Conference, DaWaK 2023, Penang, Malaysia, August 28–30, 2023, Proceedings},
+  year={2023},
+  pages={287--293},
+  publisher={Springer-Verlag},
+  address={Berlin, Heidelberg},
+  isbn={978-3-031-39830-8},
+  doi={10.1007/978-3-031-39831-5_26},
+  url={https://doi.org/10.1007/978-3-031-39831-5_26},
+  location={Penang, Malaysia}
 }
 ```
 
@@ -238,6 +255,21 @@
   year={2021},
   pages={1--8},
   doi={10.1109/ICAPAI49758.2021.9462056}
+}
+```
+
+* [43] [Motif-Guided Time Series Counterfactual Explanations](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_16) ✅ *(Read)*
+```bibtex
+@inproceedings{li2023,
+  author={Li, Peiyu and Filali Boubrahimi, Soukaïna and Hamdi, Shah Muhammad},
+  editor={Rousseau, Jean-Jacques and Kapralos, Bill},
+  title={Motif-Guided Time Series Counterfactual Explanations},
+  booktitle={Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges},
+  year={2023},
+  publisher={Springer Nature Switzerland},
+  address={Cham},
+  pages={203--215},
+  isbn={978-3-031-37731-0}
 }
 ```
 
@@ -347,5 +379,18 @@
   year={2018},
   pages={207--216},
   doi={10.1109/ICDM.2018.00036}
+}
+```
+
+* [89] [On the Mining of Time Series Data Counterfactual Explanations Using Barycenters](https://dl.acm.org/doi/10.1145/3511808.3557663)
+```bibtex
+@inproceedings{filali2022,
+  author = {Filali Boubrahimi, S. and Hamdi, S. M.},
+  title = {On the Mining of Time Series Data Counterfactual Explanations Using Barycenters},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information \& Knowledge Management (CIKM '22)},
+  pages = {3943--3947},
+  year = {2022},
+  publisher = {ACM},
+  doi = {10.1145/3511808.3557663}
 }
 ```
