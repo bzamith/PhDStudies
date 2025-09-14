@@ -9,6 +9,7 @@ PhD Studies on Time Series Classification (TSC) and Explainable AI (XAI)
   * [4) XAI for TSC](https://github.com/bzamith/PhDStudies/blob/main/literature_review/4_XAIforTSC.md)
   * [5) Evaluation of XAI](https://github.com/bzamith/PhDStudies/blob/main/literature_review/5_EvaluationXAI.md)
   * [6) XAI for TSC Baselines](https://github.com/bzamith/PhDStudies/blob/main/literature_review/6_XAIforTSCBaselines.md)
+  * [7) Instance Hardness](https://github.com/bzamith/PhDStudies/blob/main/literature_review/7_InstanceHardness.md)
 
 * [Studies](https://github.com/bzamith/PhDStudies/blob/main/studies/)
   * [TSC Algorithms](https://github.com/bzamith/PhDStudies/blob/main/studies/tsc_algorithms)
