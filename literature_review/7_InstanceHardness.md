@@ -92,14 +92,14 @@
 * [91] [Item response theory in AI: Analysing machine learning classifiers at the instance level](https://www.sciencedirect.com/science/article/pii/S0004370219300220)
 ```bibtex
 @article{martinez2019,
-  title = {Item response theory in AI: Analysing machine learning classifiers at the instance level},
-  journal = {Artificial Intelligence},
-  volume = {271},
-  pages = {18--42},
-  year = {2019},
-  issn = {0004-3702},
-  doi = {https://doi.org/10.1016/j.artint.2018.09.004},
-  author = {Fernando Martínez-Plumed and Ricardo B.C. Prud{\^e}ncio and Adolfo Martínez-Usó and José Hernández-Orallo}
+  title={Item response theory in AI: Analysing machine learning classifiers at the instance level},
+  journal={Artificial Intelligence},
+  volume={271},
+  pages={18--42},
+  year={2019},
+  issn={0004-3702},
+  doi={https://doi.org/10.1016/j.artint.2018.09.004},
+  author={Fernando Martínez-Plumed and Ricardo B.C. Prud{\^e}ncio and Adolfo Martínez-Usó and José Hernández-Orallo}
 }
 ```
 
@@ -145,5 +145,20 @@
   year={2014},
   publisher={Springer},
   doi={10.1007/s10994-013-5422-z}
+}
+```
+
+* [95] [Instance Space Analysis for Algorithm Testing: Methodology and Software Tools](https://dl.acm.org/doi/10.1145/3572895)
+```bibtex
+@article{smithmiles2023,
+  author={Smith-Miles, Kate and Mu\~{n}oz, Mario Andr\'{e}s},
+  title={Instance Space Analysis for Algorithm&nbsp;Testing: Methodology and Software Tools},
+  year={2023},
+  publisher={Association for Computing Machinery},
+  volume={55},
+  number={12},
+  issn={0360-0300},
+  doi={10.1145/3572895},
+  articleno={255},
 }
 ```

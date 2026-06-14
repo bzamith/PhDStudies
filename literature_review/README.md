@@ -1325,3 +1325,18 @@ For specific categories, please refer to the corresponding files listed below. N
   doi={10.1007/s10994-013-5422-z}
 }
 ```
+
+* [95] [Instance Space Analysis for Algorithm Testing: Methodology and Software Tools](https://dl.acm.org/doi/10.1145/3572895)
+```bibtex
+@article{smithmiles2023,
+  author={Smith-Miles, Kate and Mu\~{n}oz, Mario Andr\'{e}s},
+  title={Instance Space Analysis for Algorithm&nbsp;Testing: Methodology and Software Tools},
+  year={2023},
+  publisher={Association for Computing Machinery},
+  volume={55},
+  number={12},
+  issn={0360-0300},
+  doi={10.1145/3572895},
+  articleno={255},
+}
+```
